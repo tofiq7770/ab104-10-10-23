@@ -1,0 +1,15 @@
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\bin\Debug\net6.0\Ab104-09.exe
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\bin\Debug\net6.0\Ab104-09.deps.json
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\bin\Debug\net6.0\Ab104-09.runtimeconfig.json
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\bin\Debug\net6.0\Ab104-09.dll
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\bin\Debug\net6.0\Ab104-09.pdb
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.csproj.AssemblyReference.cache
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.AssemblyInfoInputs.cache
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.AssemblyInfo.cs
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.dll
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\refint\Ab104-09.dll
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.pdb
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\Ab104-09.genruntimeconfig.cache
+C:\Users\tofiq\Desktop\Ab104-09-10-23\Ab104-09\Ab104-09\obj\Debug\net6.0\ref\Ab104-09.dll
